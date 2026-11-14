@@ -58,27 +58,10 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-172.64.145.202:443#HKG-CN-Asia Pacific-Hong Kong-AS56040-China Mobile communications corporation
-172.64.154.211:443#HKG-CN-Asia Pacific-Hong Kong-AS56040-China Mobile communications corporation
-104.18.33.45:443#HKG-CN-Asia Pacific-Hong Kong-AS56040-China Mobile communications corporation
-172.64.145.202:443#HKG-CN-Asia Pacific-Hong Kong-AS56040-China Mobile communications corporation
-104.16.4.14:443#HKG-CN-Asia Pacific-Hong Kong-AS56040-China Mobile communications corporation
-104.25.244.170:443#HKG-CN-Asia Pacific-Hong Kong-AS9808-China Mobile Communications Group Co., Ltd.
-104.21.89.181:443#HKG-CN-Asia Pacific-Hong Kong-AS9808-China Mobile Communications Group Co., Ltd.
-104.25.244.197:443#HKG-CN-Asia Pacific-Hong Kong-AS9808-China Mobile Communications Group Co., Ltd.
-104.16.149.6:443#LAX-CN-North America-Los Angeles-AS9808-China Mobile Communications Group Co., Ltd.
-172.67.190.141:443#LAX-CN-North America-Los Angeles-AS9808-China Mobile Communications Group Co., Ltd.
-104.17.185.207:443#LAX-CN-North America-Los Angeles-AS9808-China Mobile Communications Group Co., Ltd.
-104.16.148.2:443#LAX-CN-North America-Los Angeles-AS9808-China Mobile Communications Group Co., Ltd.
-104.18.41.9:443#LAX-CN-North America-Los Angeles-AS9808-China Mobile Communications Group Co., Ltd.
-104.18.42.98:443#LAX-CN-North America-Los Angeles-AS9808-China Mobile Communications Group Co., Ltd.
-104.18.10.118:443#SEA-CN-North America-Seattle-AS9808-China Mobile Communications Group Co., Ltd.
-172.67.66.177:443#SEA-CN-North America-Seattle-AS9808-China Mobile Communications Group Co., Ltd.
-104.18.11.112:443#SEA-CN-North America-Seattle-AS9808-China Mobile Communications Group Co., Ltd.
-172.67.187.219:443#LAX-CN-North America-Los Angeles-AS9808-China Mobile Communications Group Co., Ltd.
-104.18.10.112:443#SEA-CN-North America-Seattle-AS9808-China Mobile Communications Group Co., Ltd.
-104.16.148.1:443#LAX-CN-North America-Los Angeles-AS9808-China Mobile Communications Group Co., Ltd.
-   "saas.sin.fan:443",
+    "172.64.154.211:443", 
+    "104.18.33.45:443",
+    "104.16.4.14:443",
+    "saas.sin.fan:443",
     "www.mfyx.cn:443",
     "cf.nyanya.moe:443",
     "cf.877774.xyz:443",
